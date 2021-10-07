@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bibliotecadapati.github.io/sitemap.xml
