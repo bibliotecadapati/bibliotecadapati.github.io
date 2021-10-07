@@ -1,0 +1,6 @@
+baseURL = "https://bibliotecadapati.github.io/"
+languageCode = 'pt-BR'
+title = 'Biblioteca da Pati'
+theme = "hugo-theme-meme-4.5.0"
+paginate = 2
+canonifyurls = true
